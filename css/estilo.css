@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color:#03F;
+	font-family:"Times New Roman", Times, serif;
+}
+
+p{
+	font-size:18px;
+	
+    font-family:"Comic Sans MS", cursive;
+	
+}
+	
+	
+body{
+	background:#6CF;
+}
+
+.p1{ 
+font-size:24px;
+font-family:
+
+}
+ul{
+	font-family:"Comic Sans MS", cursive;
+	font-size:18px;
+	
+}
+
+table{
+	font-size:24px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+	
+}
+
+ol{
+	font-family:"Comic Sans MS", cursive;
+	font-size:18px;
+}
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#39F;
+	
+		
+}
+
+li a{
+	display:block;
+	color:#000;
+	text-align:inherit;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+
+li a:hover{
+	background-color:#36F;
+}
+li{
+	float:left;
+}
+	
+
+
+	
+	
+
+	
+	
+			
+	
+
+
+
+
+
+	
+	
+
