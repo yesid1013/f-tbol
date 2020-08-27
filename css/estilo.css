@@ -7,10 +7,12 @@ h1{
 }
 
 p{
+	padding-right:30px;
+	padding-left:30px;
+	margin-left:5px;
+	margin-right:5px;
 	font-size:18px;
-	
     font-family:"Comic Sans MS", cursive;
-	
 }
 	
 	
@@ -20,7 +22,7 @@ body{
 
 .p1{ 
 font-size:24px;
-font-family:
+font-family:"Times New Roman", Times, serif;
 
 }
 ul{
@@ -30,6 +32,8 @@ ul{
 }
 
 table{
+	padding-left:30px;
+	padding-right:30px;
 	font-size:24px;
 	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 	
@@ -66,7 +70,15 @@ li{
 	float:left;
 }
 	
-
+h2{
+	padding-left:30px;
+	padding-right:30px;
+}
+img{
+	padding-right:30px;
+	padding-left:30px;
+}
+		
 
 	
 	
